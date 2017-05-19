@@ -9,5 +9,3 @@ def MySineWave(waveLength):
     plt.grid()
     plt.xlim(-2*np.pi,2**np.pi)
     plt.show()
-    
-MySineWave(2.0)
