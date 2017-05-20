@@ -1,3 +1,10 @@
+"""
+The code plots a sine wave having the wavelength given as its argument.
+The xrange is restricted between plus minus 2 pi
+ex: MySineWave(1), plots a sine wave having a wavelength of 1 unit
+-Biprateep
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
